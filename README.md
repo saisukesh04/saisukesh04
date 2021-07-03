@@ -1,19 +1,18 @@
 ### Hola, Sukesh here 👋
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=saisukesh4.saisukesh04) ![GitHub followers](https://img.shields.io/github/followers/saisukesh04.svg?style=social&label=Follow)
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=saisukesh04.saisukesh04) ![GitHub followers](https://img.shields.io/github/followers/saisukesh04.svg?style=social&label=Follow)
 <!--
 **saisukesh04/saisukesh04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on **How to deal with life** XD
+- 👯 Open for Collaboration
+- 🤔 I’m looking for help with iOS Development!
+- 💬 Ask me about anything. Love to learn and help :)
+- 📫 How to reach me: sukesh.sai04@gmail.com
+- 😄 Pronouns: He/Him/His
 
  Profile stats              |  Language Contribution
 :-------------------------:|:-------------------------:
@@ -21,4 +20,12 @@ Here are some ideas to get you started:
 
 <!-- ![Sukesh's Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=saisukesh04) -->
 
-<!-- #### Find me elsewhere 🌎 -->
+#### Find me elsewhere 🌎
+<p align='center'>
+  <a href="http://linkedin.com/in/sai-sukesh-9bb6161a0">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;
+  <a href="http://github.com/saisukesh04">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />        
+  </a>
+</p>
